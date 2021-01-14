@@ -50,13 +50,14 @@
 
 ### Training Data After Cleaning and Preprocessing ready to be use to train the model
 
-|    | Name                             | Location   |   Year |   Kilometers_Driven | Fuel_Type   | Transmission   | Owner_Type   |   Mileage(kmpl) |   Engine(CC) |   Power(bhp) |   Seats |   Price |
-|---:|:---------------------------------|:-----------|-------:|--------------------:|:------------|:---------------|:-------------|----------------:|-------------:|-------------:|--------:|--------:|
-|  0 | Maruti Wagon R LXI CNG           | Mumbai     |   2010 |               72000 | CNG         | Manual         | First        |           26.6  |          998 |        58.16 |       5 |    1.75 |
-|  1 | Hyundai Creta 1.6 CRDi SX Option | Pune       |   2015 |               41000 | Diesel      | Manual         | First        |           19.67 |         1582 |       126.2  |       5 |   12.5  |
-|  2 | Honda Jazz V                     | Chennai    |   2011 |               46000 | Petrol      | Manual         | First        |           18.2  |         1199 |        88.7  |       5 |    4.5  |
-|  3 | Maruti Ertiga VDI                | Chennai    |   2012 |               87000 | Diesel      | Manual         | First        |           20.77 |         1248 |        88.76 |       7 |    6    |
-|  4 | Audi A4 New 2.0 TDI Multitronic  | Coimbatore |   2013 |               40670 | Diesel      | Automatic      | Second       |           15.2  |         1968 |       140.8  |       5 |   17.74 |
+|    |   Year |   Kilometers_Driven |   Mileage(kmpl) |   Engine(CC) |   Power(bhp) |   Seats |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |
+|---:|-------:|--------------------:|----------------:|-------------:|-------------:|--------:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|
+|  0 |   2016 |               53886 |           25.17 |          799 |        53.3  |       5 |   0 |   0 |   0 |   1 |   0 |   1 |   1 |   0 |   0 |   0 |
+|  1 |   2017 |              100400 |           25    |         1396 |        69    |       5 |   0 |   1 |   0 |   0 |   0 |   1 |   1 |   0 |   0 |   0 |
+|  2 |   2017 |                9500 |           14.62 |         1999 |       149.92 |       5 |   0 |   0 |   0 |   1 |   1 |   0 |   1 |   0 |   0 |   0 |
+|  3 |   2017 |               10000 |           19.27 |         2143 |       167.62 |       5 |   0 |   1 |   0 |   0 |   1 |   0 |   1 |   0 |   0 |   0 |
+|  4 |   2016 |               31000 |           17.05 |         1995 |       190    |       5 |   0 |   1 |   0 |   0 |   1 |   0 |   1 |   0 |   0 |   0 |
+
 
 
 ### Building and Training the Model
