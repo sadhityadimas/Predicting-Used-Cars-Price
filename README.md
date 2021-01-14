@@ -1,6 +1,6 @@
 # Predicting-Used-Cars-Price
 
-## Predicting used cars price using machine learnign model ensemble method Random Forest Regressor
+## Predicting used cars price using machine learning model ensemble method Random Forest Regressor
 * the dataset is taken from kaggle uploaded by Avi Kasliwal
 * link to file https://www.kaggle.com/avikasliwal/used-cars-price-prediction?select=train-data.csv
 * The data taken from various state in India
