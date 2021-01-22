@@ -54,27 +54,27 @@
 
 ### Percentage of Automatic Cars VS Manual Car in the dataset
 
-![](/images/manualvstransmissionpie.png)
+![](/image/manualvstransmissionpie.png)
 
 * More Manual Cars than Automatic
 
 ### Manual VS Automatic Car's Owner Comparison
 
-![](/images/manualvstransmissionownertype.png)
+![](/image/manualvstransmissionownertype.png)
 
 * in both categories, most cars are owned by the first owner
 
 ### Cars Year Distribution
 
-![](/images/yeardistribution.png)
+![](/image/yeardistribution.png)
 
 * Year distribution are skewed to the left, more cars are from around 2012-2017
 
 ### Km Driven Distribution and Boxplot
 
-![](/images/kilometerdistribution.png)
+![](/image/kilometerdistribution.png)
 
-![](/images/kilometerdboxplot.png)
+![](/image/kilometerdboxplot.png)
 
 * This doesn't seems right, it means there are outliers that will impact our model
 
@@ -86,7 +86,7 @@
 
 ### Power, Engine, and Mileage Distribution
 
-![](/images/3hist.png)
+![](/image/3hist.png)
 
 * There are outliers on these Feature as well, but not as impactful as in KM Driven
 
