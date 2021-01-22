@@ -144,3 +144,4 @@
 |  3 | Hyundai i20 Magna                         |             4.581  |
 |  4 | Mahindra XUV500 W8 2WD                    |            12.0833 |
 
+* Better Score with dropping outliers in KM Driven
