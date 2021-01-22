@@ -80,7 +80,7 @@
 
 * Dropping Outliers by taking only Km driven Below 150.000
 
-![](/images/kilometerdistribution4.png)
+![](/image/kilometerdistribution4.png)
 
 * Looks good and 5872-5707 = 165 rows are drop, This should improve the model. comparison score later
 
